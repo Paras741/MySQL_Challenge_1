@@ -1,1 +1,1 @@
-# MySQL_Challenge_-
+# MySQL_Challenge_1
