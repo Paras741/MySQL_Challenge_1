@@ -28,3 +28,8 @@ Tasks:
 5. Extract a table of individual costs (procedure prices) incurred by owners of pets from the clinic in question
  ( this table should have owner and procedure price side by side)
 
+### MySQL_Challenge_3
+##### You have been hired as a data analyst for an online clothing store the company is expecting to undergo a rapid expansion in the coming months and they are not sure if the database can handle the amount of transactions that will come with increase number of customers
+
+##### You have been tasked to investigate the current design of a database. if the design is found to be an inefficient for online transaction processsing, then you need to redesign a database
+
