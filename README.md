@@ -1,4 +1,4 @@
-# MySQL_Challenge_1 Analyzing Console games
+### MySQL_Challenge_1 Analyzing Console games
 #### You can convert empty records to null records using :-
 converting empty to null records
 UPDATE games_date
@@ -17,3 +17,14 @@ Tasks:
 5. Order the Platform by their longetivity in ascending order (i.e., the platform which was available for the longest at the bottom.
 6. Demonstrate how to deal with Game_Year Column if the client wants to convert it to a different datatype.
 7. Provide Recommendations How to deal with missing values
+
+### MySQL_Challenge_2 Analyzing Vet's clinic
+##### EDA
+Tasks:
+1. Extract information on pet names and owner names side by side
+2. Find out which pets from this clinic had procedures performed
+3. Match up all procedures performed to their description
+4. Same as above but only for pets from clinic in the question
+5. Extract a table of individual costs (procedure prices) incurred by owners of pets from the clinic in question
+ ( this table should have owner and procedure price side by side)
+
