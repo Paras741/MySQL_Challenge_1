@@ -1,5 +1,5 @@
-# MySQL_Challenge_1
-### You can convert empty records to null records using :-
+# MySQL_Challenge_1 Analyzing Console games
+#### You can convert empty records to null records using :-
 converting empty to null records
 UPDATE games_date
 SET Discontinued = NULL,
@@ -8,7 +8,7 @@ WHERE Discontinued = ''
    OR Comment = '';
 
 
-# EDA 
+#### EDA 
 Tasks:
 1. Calculate What % of global sales were made in north america.
 2. Extract a view of the console game titles ordered by platform name in Ascending order and year of release in descending order.
